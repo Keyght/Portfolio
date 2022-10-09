@@ -84,6 +84,9 @@ A. Basic Styling
   -- Styling - Colors, Font Size, Font Family
 -------------------------------------------*/
 
+@charset "utf-8";
+
+
 body {
     color: #fff;
     background-color: #020328;
